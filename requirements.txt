@@ -1,0 +1,11 @@
+flatten_everything
+flexible_partial
+keyboard
+kthread
+more_itertools
+numpy
+pandas
+psutil
+regex
+requests
+touchtouch
