@@ -1,3 +1,7 @@
+# Use:
+# https://github.com/hansalemaos/usefuladb
+# https://github.com/hansalemaos/usefuladbplus
+
 # ADB sendevent - press multiple keys at the same time, control the duration of each event!
 
 <img src="https://github.com/hansalemaos/screenshots/raw/main/sendevent_key.png"/>
